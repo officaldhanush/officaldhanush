@@ -16,8 +16,10 @@ First-year Electronics and Communication Engineering student focused on practica
 * Documenting simulation workflows and practical tasks on GitHub.
 
 ---
+
 My publications:
-Design for Disassembly in Electronic Devices: A Review (2026), Zenodo preprint: https://doi.org/10.5281/zenodo.23491693
+Design for Disassembly in Electronic Devices: A Review (2026), Zenodo preprint: https://doi.org/10.5281/zenodo.2349169
+
 ---
 
 Tools and References
