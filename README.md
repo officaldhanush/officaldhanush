@@ -33,7 +33,7 @@ Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/𝓖𝓾𝓶𝓶𝓪𝓵𝓪-𝓝𝓪𝓰𝓪-𝓓𝓱𝓪𝓷𝓾𝓼𝓱-293b1942b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
- Fun Facts
+ Fun Facts:
 
 * I have to touch grass sometimes.
 * I don't like coffee or tea.
