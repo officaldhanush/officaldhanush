@@ -34,7 +34,7 @@ Design for Disassembly in Electronic Devices: A Review (2026), Zenodo preprint: 
 
 Connect With Me
 
-[LinkedIn]()
+[LinkedIn](https://www.linkedin.com/in/gummala-naga-dhanush-293b1942b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
  Fun Facts:
 
