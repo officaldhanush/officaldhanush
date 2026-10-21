@@ -1,31 +1,47 @@
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Gummala Naga Dhanush ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:officaldhanush90@gmail.com)
+# Hi, I am Dhanush
 
-![Snake Animation](https://raw.githubusercontent.com/officaldhanush/officaldhanush/output/github-contribution-grid-snake-dark.svg)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=officaldhanush&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=officaldhanush&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=officaldhanush&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=officaldhanush&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=officaldhanush&limit=5&theme=dark&combine_all_yearly_contributions=true)
+First-year Electronics and Communication Engineering student focused on practical hardware design, circuit analysis, and hardware maintainability.
 
 ---
-[![](https://komarev.com/ghpvc/?username=officaldhanush&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
 
+* Education: First-Year ECE Student at BITM Ballari
+* Core Focus: Hardware engineering, circuit simulation, and early-stage PCB design
+
+---
+
+## Current Focus
+
+* Studying Design for Disassembly (DFD) and Design for Debug (DFD) principles.
+* Performing circuit simulations and analyzing RF impedance matching using L-networks and Smith Charts.
+* Learning PCB design fundamentals and practical schematic mapping.
+* Documenting simulation workflows and practical tasks on GitHub.
+
+---
+
+## Publications
 
 ## Preprint
 Design for Disassembly in Electronic Devices: A Review (2026), Zenodo preprint: https://doi.org/10.5281/zenodo.23491693
+---
+
+## Tools and References
+
+* Design and Repair Reference: iFixit
+* Simulation Tools: Proto, Logic Circuit Simulator Pro, Smith Chart Touch
+* Reference Tools: Electrodoc
+* Documentation and Version Control: Markdown, GitHub
+
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
+
+## Fun Facts
+
+* I have to touch grass sometimes.
+* I don't like coffee or tea.
+* Burnout is my best friend.
+* Hobbies: Deep breaths, slow walk, building things
