@@ -1,21 +1,20 @@
 # Hi, I'm Dhanush 👋
-**First-Year ECE Student @ BITM Ballari | Hardware Engineering & DfD Specialist**
+**First-Year ECE Student @ BITM Ballari | Hardware DfD & Teardown Analysis**
 
-Focusing on electronic architecture, practical circuit simulation, and **Design for Disassembly (DfD)** metrics to improve hardware repairability and circular lifecycles.
+Focused on consumer electronics disassembly friction, structural modularity, and **Design for Disassembly (DfD)** metrics to evaluate device repairability and circular lifecycles.
 
 ---
 
 ### 🚀 Core Focus & Specialization
-* 🔬 **Hardware Architecture & DfD:** Mobile & consumer device teardown audits, disassembly friction analysis, and WEEE/RoHS compliance.
-* ⚡ **Circuit Simulation & RF:** Smith Chart impedance matching, L-network design, and practical mobile-based schematic mapping.
-* 🛠️ **PCB & DFX Principles:** Early-stage PCB layout standards, Design for Recycling (DfR), and modular assembly design.
+* 🔬 **Hardware Architecture & DfD:** Mobile & consumer device teardown audits, mechanical fastener analysis, and adhesive reversibility.
+* 🛠️ **Disassembly Friction & Labor Metrics:** Estimating repair times, tool counts, and component access sequences for battery/board swaps.
+* ♻️ **Eco-Compliance Auditing:** Evaluating WEEE target separation, RoHS/REACH material sorting, and post-consumer circularity trade-offs.
 
 ---
 
-### 🛠️ Hardware & Engineering Toolkit
-* **Simulation & RF Tools:** Proto, Logic Circuit Simulator Pro, Smith Chart Touch
-* **Reference & Hardware Documentation:** Electrodoc, iFixit Teardown Audits
-* **Workflow & Markup:** Markdown, GitHub Version Control
+### 🛠️ Hardware Audit Toolkit
+* **Reference & Hardware Documentation:** iFixit Teardown Audits, Device Disassembly Manuals
+* **Documentation & Markup:** Markdown, GitHub Version Control
 
 ---
 
