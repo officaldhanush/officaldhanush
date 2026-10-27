@@ -1,44 +1,30 @@
- Hi, I am Dhanush
+# Hi, I'm Dhanush 👋
+**First-Year ECE Student @ BITM Ballari | Hardware Engineering & DfD Specialist**
 
-First-year Electronics and Communication Engineering student focused on practical hardware design, circuit analysis, and hardware maintainability.
+Focusing on electronic architecture, practical circuit simulation, and **Design for Disassembly (DfD)** metrics to improve hardware repairability and circular lifecycles.
 
+---
 
+### 🚀 Core Focus & Specialization
+* 🔬 **Hardware Architecture & DfD:** Mobile & consumer device teardown audits, disassembly friction analysis, and WEEE/RoHS compliance.
+* ⚡ **Circuit Simulation & RF:** Smith Chart impedance matching, L-network design, and practical mobile-based schematic mapping.
+* 🛠️ **PCB & DFX Principles:** Early-stage PCB layout standards, Design for Recycling (DfR), and modular assembly design.
 
+---
 
-* Education: First-Year ECE Student at BITM Ballari
-* Core Focus: Hardware engineering, circuit simulation, and early-stage PCB design
+### 🛠️ Hardware & Engineering Toolkit
+* **Simulation & RF Tools:** Proto, Logic Circuit Simulator Pro, Smith Chart Touch
+* **Reference & Hardware Documentation:** Electrodoc, iFixit Teardown Audits
+* **Workflow & Markup:** Markdown, GitHub Version Control
 
+---
 
+### 📚 Academic Publications & Research
+* 📄 **Design for Disassembly in Electronic Devices: A Review (2026)**  
+  *Zenodo Preprint:* [https://doi.org/10.5281/zenodo.23491693](https://doi.org/10.5281/zenodo.23491693)
 
-* Studying Design for Disassembly (DFD) and Design for Debug (DFD) principles.
-* Performing circuit simulations and analyzing RF impedance matching using L-networks and Smith Charts.
-* Learning PCB design fundamentals and practical schematic mapping.
-* Documenting simulation workflows and practical tasks on GitHub.
+---
 
-
-
-Tools and References
-
-* Design and Repair Reference: iFixit
-* Simulation Tools: Proto, Logic Circuit Simulator Pro, Smith Chart Touch
-* Reference Tools: Electrodoc
-* Documentation and Version Control: Markdown, GitHub
-
-
-
-My publications:
-
-Design for Disassembly in Electronic Devices: A Review (2026), Zenodo preprint: https://doi.org/10.5281/zenodo.23491693
-
-
-
-Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/gummala-naga-dhanush-293b1942b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-
- Fun Facts:
-
-* I have to touch grass sometimes.
-* I don't like coffee or tea.
-* Burnout is my best friend.
-* Hobbies: Deep breaths, slow walk, building things
+### 📌 Quick Links
+🌐 **LinkedIn:** [Gummala Naga Dhanush](https://www.linkedin.com/in/gummala-naga-dhanush-293b1942b?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
+📍 **Location:** Ballari, India
