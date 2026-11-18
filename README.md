@@ -1,4 +1,5 @@
 # Hi, I'm Dhanush 👋
+
 **First-Year ECE Student @ BITM Ballari | Hardware DfD & Teardown Analysis**
 
 Focused on consumer electronics disassembly friction, structural modularity, and **Design for Disassembly (DfD)** metrics to evaluate device repairability and circular lifecycles.
@@ -6,6 +7,7 @@ Focused on consumer electronics disassembly friction, structural modularity, and
 ---
 
 ### 🚀 Core Focus & Specialization
+
 **Hardware Architecture & DfD:** Mobile & consumer device teardown audits, mechanical fastener analysis, and adhesive reversibility.
 
 **Disassembly Friction & Labor Metrics:** Estimating repair times, tool counts, and component access sequences for battery/board swaps.
@@ -15,6 +17,7 @@ Focused on consumer electronics disassembly friction, structural modularity, and
 ---
 
 ### 🛠️ Hardware Audit Toolkit
+
 * **Reference & Hardware Documentation:** iFixit Teardown Audits, Device Disassembly Manuals
 
 * **Documentation & Markup:** Markdown, GitHub Version Control
@@ -22,11 +25,13 @@ Focused on consumer electronics disassembly friction, structural modularity, and
 ---
 
 ### 📚 Academic Publications & Research
-* 📄 **Design for Disassembly in Electronic Devices: A Review (2026) | Zenodo Preprint**  
+
+**Design for Disassembly in Electronic Devices: A Review (2026) | Zenodo Preprint**  
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23491696.svg)](https://doi.org/10.5281/zenodo.24239396)
 
 
 ---
 
 ### 📌 Quick Links
+
 **LinkedIn:** [Gummala Naga Dhanush](https://www.linkedin.com/in/gummala-naga-dhanush-293b1942b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
