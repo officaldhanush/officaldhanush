@@ -25,6 +25,7 @@ Focused on consumer electronics disassembly friction, structural modularity, and
 * 📄 **Design for Disassembly in Electronic Devices: A Review (2026) | Zenodo Preprint**  
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23491694.svg)](https://doi.org/10.5281/zenodo.23491694)
 
+
 ---
 
 ### 📌 Quick Links
