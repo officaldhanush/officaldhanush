@@ -7,13 +7,16 @@ Focused on consumer electronics disassembly friction, structural modularity, and
 
 ### 🚀 Core Focus & Specialization
 **Hardware Architecture & DfD:** Mobile & consumer device teardown audits, mechanical fastener analysis, and adhesive reversibility.
+
 **Disassembly Friction & Labor Metrics:** Estimating repair times, tool counts, and component access sequences for battery/board swaps.
+
 **Eco-Compliance Auditing:** Evaluating WEEE target separation, RoHS/REACH material sorting, and post-consumer circularity trade-offs.
 
 ---
 
 ### 🛠️ Hardware Audit Toolkit
 * **Reference & Hardware Documentation:** iFixit Teardown Audits, Device Disassembly Manuals
+
 * **Documentation & Markup:** Markdown, GitHub Version Control
 
 ---
@@ -25,5 +28,4 @@ Focused on consumer electronics disassembly friction, structural modularity, and
 ---
 
 ### 📌 Quick Links
-**LinkedIn:** [Gummala Naga Dhanush](https://www.linkedin.com/in/gummala-naga-dhanush-293b1942b?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
-**Location:** Ballari, India
+**LinkedIn:** [Gummala Naga Dhanush](https://www.linkedin.com/in/gummala-naga-dhanush-293b1942b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
