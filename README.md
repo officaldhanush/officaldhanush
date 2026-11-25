@@ -7,4 +7,4 @@ First-year ECE student at BITM building digital logic and Verilog foundations fr
 - Writing and debugging Verilog modules on HDLBits and EDA Playground
 
 **Links**
-- [LinkedIn](https://www.linkedin.com/in/gummala-naga-dhanush)
+- [LinkedIn](https://www.linkedin.com/in/gummala-naga-dhanush-293b1942b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
