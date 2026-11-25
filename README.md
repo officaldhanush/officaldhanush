@@ -1,37 +1,10 @@
-# Hi, I'm Dhanush 👋
+### Gummala Naga Dhanush
 
-**First-Year ECE Student @ BITM Ballari | Hardware DfD & Teardown Analysis**
+First-year ECE student at BITM building digital logic and Verilog foundations from scratch.
 
-Focused on consumer electronics disassembly friction, structural modularity, and **Design for Disassembly (DfD)** metrics to evaluate device repairability and circular lifecycles.
+**Current Focus**
+- Combinational logic, wire declarations, and multi-gate circuits
+- Writing and debugging Verilog modules on HDLBits and EDA Playground
 
----
-
-### 🚀 Core Focus & Specialization
-
-**Hardware Architecture & DfD:** Mobile & consumer device teardown audits, mechanical fastener analysis, and adhesive reversibility.
-
-**Disassembly Friction & Labor Metrics:** Estimating repair times, tool counts, and component access sequences for battery/board swaps.
-
-**Eco-Compliance Auditing:** Evaluating WEEE target separation, RoHS/REACH material sorting, and post-consumer circularity trade-offs.
-
----
-
-### 🛠️ Hardware Audit Toolkit
-
-* **Reference & Hardware Documentation:** iFixit Teardown Audits, Device Disassembly Manuals
-
-* **Documentation & Markup:** Markdown, GitHub Version Control
-
----
-
-### 📚 Academic Publications & Research
-
-**Design for Disassembly in Electronic Devices: A Review (2026) | Zenodo Preprint**  
-  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23491696.svg)](https://doi.org/10.5281/zenodo.24239396)
-
-
----
-
-### 📌 Quick Links
-
-**LinkedIn:** [Gummala Naga Dhanush](https://www.linkedin.com/in/gummala-naga-dhanush-293b1942b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+**Links**
+- [LinkedIn](https://www.linkedin.com/in/gummala-naga-dhanush)
